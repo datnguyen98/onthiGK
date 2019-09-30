@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarray">
+        <item >Sting</item>
+        <item >Coca</item>
+        <item >Pepsi</item>
+        <item >7Up</item>
+        <item >Monster</item>
+
+    </string-array>
+</resources>
